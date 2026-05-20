@@ -93,7 +93,7 @@ Un portfolio professionnel moderne et interactif pour un technicien DevOps, cons
 
 4. **Accéder à l'application**
    - Local : http://localhost:3000/
-   - Network : http://169.254.0.21:3000/
+   - Network : http://192.168.56.1:3001/
 
 ---
 
