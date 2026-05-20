@@ -63,7 +63,7 @@ Un portfolio professionnel moderne et interactif pour un technicien DevOps, cons
 
 ### Services
 - **EmailJS** : Envoi d'emails sans backend
-- **Manus Hosting** : Hébergement et déploiement
+- **vercel** : Hébergement et déploiement
 
 ---
 
@@ -92,8 +92,8 @@ Un portfolio professionnel moderne et interactif pour un technicien DevOps, cons
    ```
 
 4. **Accéder à l'application**
-   - Local : http://localhost:3000
-   - Network : http://169.254.0.21:3000
+   - Local : http://localhost:3000/
+   - Network : http://169.254.0.21:3000/
 
 ---
 
