@@ -67,7 +67,7 @@ export default function Projects() {
             Projets Techniques
           </h2>
           <p className="text-foreground/70 max-w-2xl">
-            Une sélection de projets qui démontrent mon expertise en DevOps, automatisation et architecture cloud.
+            Une sélection de projets qui démontrent mon expertise en DevOps, automatisation,administration système et architecture cloud.
           </p>
         </div>
 
